@@ -1,0 +1,54 @@
+:root {
+  --color-nav: rgb(33, 33, 33);
+}
+.gyat {
+  color: var(--color-nav);
+}
+.rizz {
+  color: gray;
+}
+.game {
+  color: gray;
+}
+.oleh {
+}
+.imposter {
+  color: var(red);
+}
+.ello {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.alan {
+  color: skyblue;
+}
+.aaa {
+  color: gray;
+}
+.monkey {
+  background-color: #2f303a;
+}
+.daniel {
+  color: #ffffff;
+}
+.Skibiti {
+  color: #2196f3;
+}
+.reas {
+  color: #000000;
+}
+.udf {
+  color: white;
+}
+.dsf {
+  background-color: #2f303a;
+}
+.games {
+  color: rgb(255, 255, 255);
+}
+.cash{
+    color: rgba(255, 255, 255, 0.6);
+}
+.insert{
+    color: rgba(255, 255, 255, 0.6);
+}
